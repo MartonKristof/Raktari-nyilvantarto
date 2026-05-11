@@ -4,4 +4,4 @@
 • promt szövegét: Hogy tudom lehivni ami fent van?
 • az AI válasz rövid összefoglalását: 
 • a felhasználás pontos helyét (fájlnév és sorok száma): Github lekérés
-• Név: Martin
+- **• Név: Martin**
