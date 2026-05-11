@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+using RaktarModel;
 
 namespace RaktarModel
 {
@@ -21,7 +23,7 @@ namespace RaktarModel
             Kategoria = kategoria;
             Mennyiseg = mennyiseg;
             Egysegar = egysegar;
-        }   
+        }
 
         public override string ToString()
         {
@@ -29,13 +31,14 @@ namespace RaktarModel
         }
 
         #region Beolvas
-        public static IEnumerable<Termek> Beolvas(string fajl)
+        public static List<Termek> Beolvas(string fajl)
         {
             if (!File.Exists(fajl))
             {
                 throw new FileNotFoundException("A fájl nem található", fajl);
             }
-            return File.ReadLines(fajl)
+
+            return File.ReadLines(fajl, Encoding.UTF8)
                 .Skip(1)
                 .Select(sor =>
                 {
@@ -45,15 +48,17 @@ namespace RaktarModel
                         throw new FormatException($"Hibás sor: {sor}");
                     }
                     return new Termek(
-                            int.Parse(darabolt[0]),
-                            darabolt[1],
-                            darabolt[2],
-                            int.Parse(darabolt[3]),
-                            double.Parse(darabolt[4])
-                        );
-                });
+                        int.Parse(darabolt[0]),
+                        darabolt[1],
+                        darabolt[2],
+                        int.Parse(darabolt[3]),
+                        double.Parse(darabolt[4].Replace(',', '.'))
+                    );
+                })
+                .ToList();
         }
         #endregion
+
         #region AppentoFile
         public void AppendToFile(string fajl)
         {
