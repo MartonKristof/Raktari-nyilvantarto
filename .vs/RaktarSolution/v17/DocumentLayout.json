@@ -1,28 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF8749E-BA18-4863-BD43-CD8AEFB7CE1F}|RaktarGUI\\RaktarGUI.csproj|c:\\users\\marton krist\u00F3f\\desktop\\c#\\raktarsolution\\raktargui\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0FF8749E-BA18-4863-BD43-CD8AEFB7CE1F}|RaktarGUI\\RaktarGUI.csproj|solutionrelative:raktargui\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05D3D4D7-FC5A-4586-BC89-480000AD3EBF}|RaktarModel\\RaktarModel.csproj|c:\\users\\marton krist\u00F3f\\desktop\\c#\\raktarsolution\\raktarmodel\\termek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05D3D4D7-FC5A-4586-BC89-480000AD3EBF}|RaktarModel\\RaktarModel.csproj|solutionrelative:raktarmodel\\termek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF8749E-BA18-4863-BD43-CD8AEFB7CE1F}|RaktarGUI\\RaktarGUI.csproj|c:\\users\\marton krist\u00F3f\\desktop\\c#\\raktarsolution\\raktargui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0FF8749E-BA18-4863-BD43-CD8AEFB7CE1F}|RaktarGUI\\RaktarGUI.csproj|solutionrelative:raktargui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF8749E-BA18-4863-BD43-CD8AEFB7CE1F}|RaktarGUI\\RaktarGUI.csproj|c:\\users\\marton krist\u00F3f\\desktop\\c#\\raktarsolution\\raktargui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF8749E-BA18-4863-BD43-CD8AEFB7CE1F}|RaktarGUI\\RaktarGUI.csproj|solutionrelative:raktargui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Han\u00F3 Martin\\source\\repos\\MartonKristof\\Raktari-nyilvantarto\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,70 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2026-05-11T06:29:49.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\RaktarGUI\\AddWindow.xaml",
-              "RelativeDocumentMoniker": "RaktarGUI\\AddWindow.xaml",
-              "ToolTip": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\RaktarGUI\\AddWindow.xaml",
-              "RelativeToolTip": "RaktarGUI\\AddWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-11T06:23:43.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Termek.cs",
-              "DocumentMoniker": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\RaktarModel\\Termek.cs",
-              "RelativeDocumentMoniker": "RaktarModel\\Termek.cs",
-              "ToolTip": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\RaktarModel\\Termek.cs",
-              "RelativeToolTip": "RaktarModel\\Termek.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T06:22:44.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\RaktarGUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "RaktarGUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\RaktarGUI\\MainWindow.xaml",
-              "RelativeToolTip": "RaktarGUI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-11T06:20:39.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\RaktarGUI\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "RaktarGUI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Marton Krist\u00F3f\\Desktop\\C#\\RaktarSolution\\RaktarGUI\\MainWindow.xaml.cs",
-              "RelativeToolTip": "RaktarGUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T06:20:38.119Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
