@@ -1,7 +1,7 @@
-• a bejegyzés sorszámát: 1
-• a dátumot: 2026.05.11 8:35
-• a használt nagy nyelvi modellt: Gemini
-• promt szövegét: Hogy tudom lehivni ami fent van?
-• az AI válasz rövid összefoglalását: 
-• a felhasználás pontos helyét (fájlnév és sorok száma): Github lekérés
+- **• a bejegyzés sorszámát: 1
+- **• a dátumot: 2026.05.11 8:35
+- **• a használt nagy nyelvi modellt: Gemini
+- **• promt szövegét: Hogy tudom lehivni ami fent van?
+- **• az AI válasz rövid összefoglalását: 
+- **• a felhasználás pontos helyét (fájlnév és sorok száma): Github lekérés
 - **• Név: Martin**
