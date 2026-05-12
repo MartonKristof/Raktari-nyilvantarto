@@ -14,6 +14,7 @@
         <SolidColorBrush x:Key="BrushMuted" Color="#334155"/>
         <SolidColorBrush x:Key="BrushWhite" Color="White"/>
 
+
         <Style x:Key="TitleTextBlock" TargetType="TextBlock">
             <Setter Property="FontSize" Value="34"/>
             <Setter Property="FontWeight" Value="Bold"/>
